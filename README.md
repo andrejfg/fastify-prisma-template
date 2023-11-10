@@ -58,8 +58,8 @@ The application will start, and you can access it through the specified endpoint
    Configure the logger settings in the `/server.ts` file according to your requirements.
 
 📬 Contact
-- Name: Seu Nome
-- Email: [seu.email@gmail.com](mailto:seu.email@gmail.com)
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seu-linkedin/)
+- Name: André Felipe Guimarães
+- Email: [andrefg.dev@gmail.com](mailto:andrefg.dev@gmail.com)
+- LinkedIn: [andrefg](https://www.linkedin.com/in/andrefg/)
 
 Happy coding! 🚀
