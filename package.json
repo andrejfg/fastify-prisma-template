@@ -1,0 +1,26 @@
+{
+  "name": "fastify-prisma-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsup src",
+    "start": "node dist/server.js",
+    "lint": "eslint src --ext .ts --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.24.3"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "@types/node": "^20.9.0",
+    "eslint": "^8.53.0",
+    "prisma": "^5.5.2",
+    "tsx": "^4.1.0",
+    "typescript": "^5.2.2"
+  }
+}
